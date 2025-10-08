@@ -3,7 +3,7 @@ title: "Reinforcement learning-based intelligent flight control for a fixed-wing
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'RL for obstacle-avoidance'
+excerpt: 'This paper is about RL application on obstacle-avoidance'
 date: 2024-06-25
 venue: 'European Control Conference'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10591030'
