@@ -14,22 +14,12 @@ Education
 * Ph.D in Reinforcement Learning for Flight Control, Delft University of Technology, 2026 (expected)
 
 
-{% Work experience %}
+Work experience
 ======
-  * Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Winter 2020: Phd researcher
+  * Delft University of Technology
+  * Duties includes: RL research and Supervision on Masters' Thesis
+  * Supervisor: Dr. Erik-Jan van Kampen
   
 Skills
 ======
