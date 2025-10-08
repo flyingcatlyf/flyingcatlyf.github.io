@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Reinforcement Learning for Flight Control, Delft University of Technology, 2026 (expected)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
+
+% Work experience
+# ======
+  * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
