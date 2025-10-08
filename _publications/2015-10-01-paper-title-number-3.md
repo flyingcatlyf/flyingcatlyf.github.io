@@ -3,8 +3,8 @@ title: "Improving Action Smoothness of a Cascaded Online Learning Flight Control
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+excerpt: 'The applications of temporal smoothness and filter.'
+date: 2025-7-06
 venue: 'Arxiv'
 slidesurl: ''
 paperurl: 'https://arxiv.org/pdf/2507.04346'
