@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can contact me for a detailed CV.
+
 Education
 ======
 * Ph.D in Reinforcement Learning for Flight Control, Delft University of Technology, 2026 (expected)
