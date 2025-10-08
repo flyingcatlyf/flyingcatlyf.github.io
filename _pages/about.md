@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Phd candidate in Machine Learning at [TU Delft](https://www.tudelft.nl/), Delft, the Netherlands, under the supervision of dr. Erik-Jan van Kampen. My research interests include reinforcement learning, flight control, and control theory.
+I am a Phd candidate in Machine Learning at [TU Delft](https://www.tudelft.nl/), Delft, the Netherlands. My research interests include reinforcement learning, flight control, and control theory.
 
 
 
