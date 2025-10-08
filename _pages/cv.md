@@ -14,8 +14,8 @@ Education
 * Ph.D in Reinforcement Learning for Flight Control, Delft University of Technology, 2026 (expected)
 
 
-% Work experience
-# ======
+{% Work experience %}
+======
   * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -33,12 +33,15 @@ Education
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Simulation
+  * PyTorch
+  * TensorFlow
+  * Simulink
+* Algorithm
+  * Deep Deterministic Policy Gradient (DDPG)
+  * Incremental Heuristic Dynamic Programming (IHDP)
+  * Recursive Least Square (RLS) Identification
+  * Soft Actor Critic (SAC)
 
 Publications
 ======
