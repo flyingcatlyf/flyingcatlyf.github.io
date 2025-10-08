@@ -3,9 +3,9 @@ title: "Deep Deterministic Policy Gradient with Symmetric Data Augmentation for 
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'sample-efficient offline training of flight control.'
+date: 2024-7-13
+venue: 'Arxiv'
 slidesurl: ''
 paperurl: 'https://arxiv.org/pdf/2407.11077'
 citation: 'Yifei Li. (2024). &quot;Deep Deterministic Policy Gradient with Symmetric Data Augmentation for Aircraft Lateral Control.&quot; <i>arxiv</i>.'
