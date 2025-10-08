@@ -3,7 +3,7 @@ title: "Incremental generalized policy iteration for adaptive attitude tracking 
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about application of spacecraft control.'
+excerpt: 'This paper is about application on spacecraft control.'
 date: 2023-06-13
 venue: 'European Control Conference'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10178221'
