@@ -53,6 +53,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewers for Journal of Aerospace Engineering, Aerospace Science and Technology
