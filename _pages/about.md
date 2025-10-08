@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Phd candidate in Machine Learning at [TU Delft](https://www.tudelft.nl/), Delft, the Netherlands, under the supervision of dr. Erik-Jan van Kampen. My research interests include reinforcement learning, flight control, and control theory.
 
+I havelead teaching in UKRI AI CDT on Decision Making for Complex Systems. I am an ELLIS Scholar in the ELLIS Unit Manchester. Before that, I was an Assistant Professor in Robot Dynamics at the Department of Cognitive Robotics and co-director of Delft SELF AI Lab, TU Delft, Netherlands and a Project Leader at DJI, China. I am an Area Chair or Associate Editor of IEEE T-RO, IEEE RA-L (outstanding AE award), ACM TOPML, RSS, CoRL, L4DC, ICRA, IROS. I received my degrees from Imperial College London, University of Science and Technology of China and Harbin Institute of Technology.
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
