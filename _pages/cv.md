@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can contact me for a detailed CV.
+Please contact me for a detailed CV.
 
 Education
 ======
