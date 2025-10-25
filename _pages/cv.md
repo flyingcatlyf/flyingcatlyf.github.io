@@ -20,7 +20,7 @@ Work experience
 ======
   * Winter 2020: Phd researcher
   * Delft University of Technology
-  * Duties includes: RL research and Supervision on Masters' Theses
+  * Duties includes: RL research and Supervision on Masters' Theses of
     [Marek Homola](https://arc.aiaa.org/doi/abs/10.2514/6.2025-2793) and [Willem Volker](https://repository.tudelft.nl/record/uuid:a6b645d2-8d47-44d3-a4ad-1d5a6024f13f)
   * Supervisor: Dr. Erik-Jan van Kampen
   
