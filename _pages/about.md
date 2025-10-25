@@ -16,4 +16,3 @@ Interests
 - Symmetry-informed RL
 - RL for tracking control
 - Modeling error effects on RL
-- Data-driven control
