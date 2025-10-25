@@ -12,6 +12,7 @@ I am a Phd candidate in Reinforcement Learning for Flight Control, supervised by
 
 Interests
 ======
-- Reinforcement Learning
-- Flight control
+- Reinforcement learning
 - Optimal control
+- Flight control
+- Data-driven control
