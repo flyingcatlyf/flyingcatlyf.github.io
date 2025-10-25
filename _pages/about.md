@@ -12,7 +12,8 @@ Specifically, I mainly work on RL algorithms includinig Deep Deterministic Polic
 
 Interests
 ======
-- Reinforcement learning
-- Optimal control
-- Flight control
+- Incremental model based model-free reinforcement learning
+- Symmetry-informed RL
+- RL for tracking control
+- Modeling error effects on RL
 - Data-driven control
