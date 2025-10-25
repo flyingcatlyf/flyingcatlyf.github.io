@@ -16,3 +16,10 @@ Interests
 - Optimal control
 - Flight control
 - Data-driven control
+
+Featured Publications
+======
+[improving action smoothness for a cascaded online learning flight control system](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZeGJULQAAAAJ&citation_for_view=ZeGJULQAAAAJ:Y0pCki6q_DkC)
+[Stability analysis for incremental adaptive dynamic programming with approximation errors](https://ascelibrary.org/doi/abs/10.1061/JAEEEZ.ASENG-5097)
+[Deep reinforcement learning with symmetric data augmentation applied for aircraft lateral flight control](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZeGJULQAAAAJ&citation_for_view=ZeGJULQAAAAJ:qjMakFHDy7sC)
+
