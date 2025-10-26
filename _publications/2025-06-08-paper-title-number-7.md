@@ -3,7 +3,7 @@ title: "Uncertainty-driven distributional reinforcement learning for flight cont
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about offline RL for flight control application'
+excerpt: 'This paper is awarded the best student paper'
 date: 2025-01-03
 venue: 'AIAA SciTech'
 paperurl: 'https://arc.aiaa.org/doi/abs/10.2514/6.2025-2793'
