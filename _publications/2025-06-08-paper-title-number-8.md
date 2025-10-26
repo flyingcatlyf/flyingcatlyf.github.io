@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about flying-V control application'
 date: 2023-01-19
 venue: 'AIAA SciTech'
-paperurl: '(https://arc.aiaa.org/doi/10.2514/6.2023-2678)'
+paperurl: 'https://arc.aiaa.org/doi/10.2514/6.2023-2678'
 citation: 'Willem V$\"{o}$lker, Y.Li, Erik-Jan van Kampen. (2024). &quot;Twin-delayed deep deterministic policy gradient for altitude control of a flying-wing aircraft with an uncertain aerodynamic model.&quot; <i>AIAA SciTech</i>.'
 ---
 
