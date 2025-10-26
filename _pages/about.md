@@ -15,4 +15,4 @@ Interests
 - Incremental model based model-free reinforcement learning
 - Symmetry-informed RL
 - RL for tracking control
-- Modeling error effects on RL
+- The effects of modeling error on RL
